@@ -19,3 +19,17 @@ switch (userScore) {
     default:
         alert("معدل کمتر از 12 مشروط میشه.");
 }
+
+// if (userScore > 20){
+//     alert("معدل وارد شده معتبر نمی باشد.");
+// } else {
+//     if (userScore > 17) {
+//         alert("A");
+//     } else if(userScore > 14) {
+//         alert("B");
+//     } else if (userScore > 11) {
+//         alert("C")
+//     } else {
+//         alert("معدل کمتر از 12 مشروط میشه.");
+//     }
+// }
